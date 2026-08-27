@@ -104,7 +104,7 @@ git push -u origin main
 ```
 
 ## Vercel
-**Link do Deploy:** COLE_AQUI_O_LINK_DA_VERCEL
+**Link do Deploy:** (https://jovi-modo-aula.vercel.app/)
 
 Para publicar, importe o repositório no Vercel. O projeto utiliza Vite e não exige configuração especial além do comando de build `npm run build`.
 
