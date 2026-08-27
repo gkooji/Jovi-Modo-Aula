@@ -3,7 +3,9 @@ import FeatureCard from "../components/FeatureCard";
 const team = [
   { name: "Thiago Souza de Lima", role: "Product Owner & UX Research", bg: "bg-blue" },
   { name: "Matheus Akira Aso", role: "Tech Lead & Desenvolvimento", bg: "bg-pink" },
-  { name: "Guilherme Kooji", role: "Design & Prototipação", bg: "bg-green" },
+  { name: "Guilherme Kooji Kubota", role: "Design & Prototipação", bg: "bg-green" },
+  { name: "João Vitor Batista de Mattos", role: "Desenvolvimento & QA", bg: "bg-orange" },
+  { name: "Kelvyn Lukas Junqueira da Silva", role: "Desenvolvimento Front-End", bg: "bg-teal" },
 ];
 
 function Sobre() {
